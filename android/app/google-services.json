@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736663962443",
+    "project_id": "your-chat-beb87",
+    "storage_bucket": "your-chat-beb87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736663962443:android:aaadfbcafd51038f459ece",
+        "android_client_info": {
+          "package_name": "com.example.yourchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736663962443-coahkn16ejeesd5i4n4a1o2jofu1r4d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKTW_n8XDLpKK7CMiPbBgjdcPN7tkCw-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736663962443-coahkn16ejeesd5i4n4a1o2jofu1r4d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
